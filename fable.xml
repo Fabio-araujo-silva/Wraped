@@ -56,7 +56,7 @@
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:9"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:11"/>
     </page>
-    <page background="p10.png" soundtrack="chico.mp3">
+    <page background="p10n.png" soundtrack="chico.mp3">
         <agent img="colisao.png" x="360" y="465" width="30" height="30" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:10"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:12"/>
