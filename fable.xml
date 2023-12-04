@@ -38,20 +38,20 @@
         <agent img="colisao.png" x="250" y="0" width="250" height="500" on-touch="_GOTO_PAGE:10"/>
     </page>
     <page background="p9.png">
-        <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:8"/>
-        <agent img="colisao.png" x="250" y="0" width="250" height="500" on-touch="_GOTO_PAGE:10"/>
+        <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:9"/>
+        <agent img="colisao.png" x="250" y="0" width="250" height="500" on-touch="_GOTO_PAGE:11"/>
     </page>
     <page background="p10.png">
-        <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:9"/>
-        <agent img="colisao.png" x="250" y="0" width="250" height="500" on-touch="_GOTO_PAGE:12"/>
-    </page>
-     <page background="p11.png">
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:10"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="500" on-touch="_GOTO_PAGE:12"/>
     </page>
-     <page background="p12.png">
+     <page background="p11.png">
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:11"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="500" on-touch="_GOTO_PAGE:13"/>
+    </page>
+     <page background="p12.png">
+        <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:12"/>
+        <agent img="colisao.png" x="250" y="0" width="250" height="500" on-touch="_GOTO_PAGE:14"/>
     </page>
      <page background="p13.png">
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:12"/>
