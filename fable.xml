@@ -3,4 +3,8 @@
          <agent img="colisao_debug.png" x="50" y="415" width="200" height="45" on-touch="_GOTO_PAGE:1"/>
 
     </page>
+    <page background="">
+        <agent
+      text="Clique em uma carta" font-size="22" color="blue" x="40" y="350" width="500" height="100" />
+    </page>
 </fable>
