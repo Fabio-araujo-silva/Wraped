@@ -8,7 +8,7 @@
          <agent img="colisao.png" x="0" y="275" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="255" y="370" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="255" y="320" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
-         <agent img="colisao_de.png" x="255" y="275" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
+         <agent img="colisao.png" x="255" y="275" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
          
     </page>
     <page background="p1.png" soundtrack="m1.mp3">
@@ -79,6 +79,10 @@
      <page background="p14.png">
          <agent img="colisao.png" x="360" y="465" width="30" height="30" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:14"/>
+        <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:1"/>
+    </page>
+    <page background="p15.png">
+        <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:1"/>
     </page>
 </fable>
