@@ -1,15 +1,15 @@
 <fable>
 	<page background="casas.png">
-         <agent img="colisao.png" x="0" y="415" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
-         <agent img="colisao.png" x="50" y="368" width="200" height="45" on-touch="_GOTO_PAGE:15"/>
-         <agent img="colisao.png" x="255" y="415" width="220" height="45" on-touch="_GOTO_PAGE:15"/>
-         <agent img="colisao.png" x="115" y="130" width="270" height="150" on-touch="_GOTO_PAGE:15"/>
+         <agent img="colisao_debug.png" x="0" y="415" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
+         <agent img="colisao.png" x="50" y="368" width="200" height="45" on-touch="_GOTO_PAGE:16"/>
+         <agent img="colisao.png" x="255" y="415" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
+         <agent img="colisao.png" x="115" y="130" width="270" height="150" on-touch="_GOTO_PAGE:16"/>
          <agent img="colisao.png" x="0" y="320" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="0" y="275" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
-         <agent img="colisao.png" x="255" y="370" width="220" height="45" on-touch="_GOTO_PAGE:15"/>
-         <agent img="colisao.png" x="255" y="320" width="220" height="45" on-touch="_GOTO_PAGE:15"/>
-         <agent img="colisao.png" x="255" y="275" width="220" height="45" on-touch="_GOTO_PAGE:15"/>
-         <agent img="colisao_debug.png" x="360" y="20" width="30" height="30" on-touch="_GOTO_PAGE:1"/>
+         <agent img="colisao.png" x="255" y="370" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
+         <agent img="colisao.png" x="255" y="320" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
+         <agent img="colisao.png" x="255" y="275" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
+         <agent img="colisao.png" x="360" y="5" width="30" height="30" on-touch="_GOTO_PAGE:16"/>
          
     </page>
     <page background="p1.png" soundtrack="lofi.mp3">
