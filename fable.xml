@@ -16,17 +16,17 @@
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:3"/>
     </page>
-    <page background="p2.png">
+    <page background="p2.png" soundtrack="lofi.mp3">
         <agent img="colisao.png" x="360" y="465" width="30" height="30" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:2"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:4"/>
     </page>
-    <page background="p3.png">
+    <page background="p3.png" soundtrack="lofi.mp3">
         <agent img="colisao.png" x="360" y="465" width="30" height="30" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:3"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:5"/>
     </page>
-    <page background="p4.png">
+    <page background="p4.png" soundtrack="lofi.mp3">
         <agent img="colisao.png" x="360" y="465" width="30" height="30" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:4"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:6"/>
