@@ -6,8 +6,9 @@
          <agent img="colisao.png" x="115" y="130" width="270" height="150" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="0" y="320" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="0" y="275" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
-         <agent img="colisao_debug.png" x="255" y="370" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
-         <agent img="colisao.png" x="255" y="" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
+         <agent img="colisao.png" x="255" y="370" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
+         <agent img="colisao.png" x="255" y="320" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
+         <agent img="colisao_de.png" x="255" y="275" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
          
     </page>
     <page background="p1.png" soundtrack="m1.mp3">
