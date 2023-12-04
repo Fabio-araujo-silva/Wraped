@@ -6,6 +6,6 @@
          <agent img="colisao.png" x="115" y="130" width="270" height="150" on-touch="_GOTO_PAGE:2"/>
     </page>
     <page background="p1.png">
-        <agent text="Clique em uma carta" font-size="22" color="blue" x="40" y="350" width="500" height="100" />
+        <agent img="colisao.png" x="115" y="130" width="270" height="150" on-touch="_GOTO_PAGE:2"/>
     </page>
 </fable>
