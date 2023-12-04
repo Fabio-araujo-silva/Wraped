@@ -1,9 +1,5 @@
 <fable>
 	<page background="home.png">
-        <agent>
-            
-        </agent>
-    </page>
-    <page>
+         <agent x="40" y="350" width="500" height="100"></agent>
     </page>
 </fable>
