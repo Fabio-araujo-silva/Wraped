@@ -1,8 +1,8 @@
 <fable>
 	<page background="casas.png".png">
-         <agent img="colisao_debug.png" x="0" y="415" width="200" height="45" on-touch="_GOTO_PAGE:2"/>
+         <agent img="colisao_debug.png" x="1" y="415" width="200" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao_debug.png" x="50" y="368" width="200" height="45" on-touch="_GOTO_PAGE:2"/>
-         <agent img="colisao_debug.png" x="200" y="415" width="50" height="45" on-touch="_GOTO_PAGE:2"/>
+         <agent img="colisao_debug.png" x="500" y="415" width="10" height="45" on-touch="_GOTO_PAGE:2"/>
 
     </page>
     <page background="p1.png">
