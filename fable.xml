@@ -1,5 +1,5 @@
 <fable>
-	<page background="casas.png".png">
+	<page background="casas.png" soundtrack="">
          <agent img="colisao.png" x="0" y="415" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="50" y="368" width="200" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="255" y="415" width="220" height="45" on-touch="_GOTO_PAGE:2"/>
