@@ -89,7 +89,7 @@
         <agent img="colisao.png" x="0" y="0" width="250" height="500" on-touch="_GOTO_PAGE:1"/>
         <agent img="colisao.png" x="250" y="0" width="250" height="400" on-touch="_GOTO_PAGE:1"/>
     </page>
-    <page background="casas.png">
+    <page background="casas2.png" soundtrack="baroes.mp3">
          <agent img="colisao.png" x="0" y="415" width="250" height="45" on-touch="_GOTO_PAGE:2"/>
          <agent img="colisao.png" x="50" y="368" width="200" height="45" on-touch="_GOTO_PAGE:17"/>
          <agent img="colisao.png" x="255" y="415" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
@@ -99,7 +99,7 @@
          <agent img="colisao.png" x="255" y="370" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
          <agent img="colisao.png" x="255" y="320" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
          <agent img="colisao.png" x="255" y="275" width="220" height="45" on-touch="_GOTO_PAGE:16"/>
-         <agent img="colisao.png" x="360" y="5" width="30" height="30" on-touch="_GOTO_PAGE:16"/>
+         <agent img="colisao.png" x="360" y="5" width="30" height="30" on-touch="_GOTO_PAGE:1"/>
          
     </page>
 </fable>
