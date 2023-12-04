@@ -1,6 +1,6 @@
 <fable>
 	<page background="casas.png".png">
-         <agent text="Clique em uma carta" font-size="22" color="blue" x="40" y="350" width="500" height="100" />
+         <agent img="colisao.png" x="40" y="350" width="500" height="100" />
 
     </page>
 </fable>
